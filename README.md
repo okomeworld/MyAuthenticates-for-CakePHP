@@ -12,7 +12,7 @@ FormAuthenticateクラスを拡張して、usernameとして参照するカラ�
 ### インストール
 1.	[ZIPファイル](https://github.com/okomeworld/MyAuthenticates-for-CakePHP/zipball/master)をダウンロード
 2.	ダウンロードしたファイルを解凍
-3.	app/Controller/Component/AuthにMyAuthenticates-for-CakePHP/Controller/Components/Auth/MultiUsernameAuthenticate.phpをコピー  
+3.	app/Controller/Component/AuthにMultiUsernameAuthenticate.phpをコピー  
 	（または任意のプラグインディレクトリにControllerディレクトリをコピー）
 
 ### 使用例
